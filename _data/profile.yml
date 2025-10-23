@@ -26,7 +26,7 @@ short_bio: >-
     supervised by Professor <a href="https://www.cityu.edu.hk/stfprofile/mingxcai.htm" target="_blank">Mingxuan CAI</a>.
   </p>
   <p>
-    My research interests include using statistical machine learning to analyze genome-wide association studies and other large-scale genomic data.
+    My research interests include using statistical machine learning to analyze genome-wide association studies, transcriptome-wide association studies, and other large-scale genomic data.
   </p>
 
 portrait_url: /assets/images/photos/photo2.JPG
@@ -52,6 +52,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: Chow Yei Ching School of Graduate Studies Entrance Scholarships, CityUHK
+  date: 2025
 - name: Hong Kong Ph.D. Fellowship Scheme, RGC
   date: 2025
 - name: Master's List, Wu Yee Sun College, CUHK

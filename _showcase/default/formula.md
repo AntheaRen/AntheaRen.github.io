@@ -1,7 +1,7 @@
 ---
-show: true
+show: false
 width: 4
-date: 2017-01-14 00:01:00 +0800
+#date: 2017-01-14 00:01:00 +0800
 ---
 <div class="p-4 text-center">
 <p>When I was at CUHK, our final year project is related to VAE and GAN</p>
