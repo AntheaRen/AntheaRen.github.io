@@ -2,7 +2,6 @@
 show: true
 width: 4
 #date: 2021-09-12 00:01:00 +0800
-group: 
 height: 295px
 images:
 - src: ./assets/images/photos/home.JPG
