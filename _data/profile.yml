@@ -22,7 +22,7 @@ github: AntheaRen
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am Jiahui REN, a Ph.D. student at the Department of Biostatistics, City University of Hong Kong
+    I am Jiahui REN, a Ph.D. candidate at the Department of Biostatistics, City University of Hong Kong
     supervised by Professor <a href="https://www.cityu.edu.hk/stfprofile/mingxcai.htm" target="_blank">Mingxuan CAI</a>.
   </p>
   <p>
@@ -52,6 +52,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: HKPFS Academic Excellence and QE Award, CityUHK
+  date: 2026
 - name: Chow Yei Ching School of Graduate Studies Entrance Scholarships, CityUHK
   date: 2025
 - name: Hong Kong Ph.D. Fellowship Scheme, RGC
