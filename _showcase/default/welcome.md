@@ -10,7 +10,7 @@ date: 3000-01-12 00:01:00 +0800
     <ul>
         <li><code>Computer Skills</code>: R, Python, Java, SAS, Javascript, Node.js</li>
         <li><code>Language Skills</code>: Mandarin, English, Shanghainese, Cantonese</li>
-        <li>In my spare time, I like watching concert, listening to music, playing musical instrument and playing video games. My favourite music type is <code>c-pop</code> and <code>R&B</code>. I can play the <code>piano</code>, <code>violin</code> and <code>guitar</code>.</li>
+        <li>In my spare time, I like watching concerts, listening to music, playing musical instruments, playing video games and citywalk. My favourite music types are <code>Cantopop</code> and <code>R&B</code>. I can play the <code>piano</code>, <code>violin</code> and <code>guitar</code>. Now I'm learning to play the <code>flute</code>.</li>
         <li>I also like cats very much.</li>
     </ul>
 </div>
